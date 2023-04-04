@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20우와%20&animation=scaleln&fontSize=40)
 
 
 
@@ -7,33 +7,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeLim0122)](https://github.com/YeLim0122/github-readme-stats)
 
+![HTML](https://img.shields.io/badge/-HTML-6DB3FF?style=flat&logo=HTML&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-FFE400?style=flat&logo=CSS&logoColor=white)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-47C83E?style=for-the-badge&logo=SQL&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
 
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-**굵게** <br>
-*기울임꼴* <br>
-~~취소선~~ <br>
-
-* 1번
-* 2번
-* 3번
-
-[네이버](https://www.naver.com)
-
-```
-
-System.out.println("Hello World!")
-
-```
-
-😏
-😂
-😡
