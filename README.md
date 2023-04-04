@@ -10,7 +10,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-6DB3FF?style=flat&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-FFE400?style=flat&logo=CSS&logoColor=white)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-SQL-47C83E?style=for-the-badge&logo=SQL&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
 
